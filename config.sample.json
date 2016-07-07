@@ -1,0 +1,9 @@
+[
+  {
+    "name": "sw1",
+    "thrift-ip": "127.0.0.1",
+    "thrift-port": 9090,
+    "json": "simple_switch.json",
+    "pre": "SimplePre"
+  }
+]
